@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0022: Использовать тело блока для методов
+csharp_style_expression_bodied_methods = false:silent

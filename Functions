@@ -1,0 +1,23 @@
+- ForceCloneAvatar (Cloning an avatar even if the option is disabled for the player)
+- DeathMap (Preventing new players from entering the room) (Only Master)
+- BunnyHop (auto-spring, when you press the Space key)
+- InfinityJump (jumping in the air)
+- ESP (Illumination of player capsules)
+- Fast TP or Mouse TP (Teleport on keypress: CTRL + MOUSE3)
+- PlayerList in Tab
+- HWID Spoofer (Hard drive ID change)
+- SIt On Head (The name speaks for itself)
+- SpeedHack (Adds speed to the player when pressing CTRL + G)
+- FlyHack (Fly or Noclip) (CTRL + F)
+- ClientConsole (Additional console for increased functionality)
+- Camera Height (change the height of your camera: CTRL + Mouse ScrollWheel)
+- AutoClearRAM (Cleaning up unused VRChat memory)
+- Search Avatar By Name
+- Unlimited Favorites
+- FakePing (Change ping)
+- InvisAPI (Friends will see you offline)
+- Disable Analytics (Prevent sending VRChat analytics data)
+- QuitFix (Quick exit from VRChat)
+- Serilize (Prohibition on sending coordinates of movement and actions)
+- SyncPhisycsFix (Fix objects when trying to crash)
+- NetworkSanity (For Fix VRChat crashes & bugs)
