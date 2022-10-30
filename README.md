@@ -1,34 +1,10 @@
-# BlazeEngine-IL2CPP (BE4V) For VRChat Build Any (LASTEST) [Source] [NOT MILONLOADER]
-# [Not support EAC]
-# [For buy EAC unblock Discord: BlazeBest#1284]
-Register for Client (Release): https://client.icefrag.ru
+![Awesome Mod Logo](https://i.imgur.com/FqvpDC4.png)
+## **Awesome Mod** - the *shittiest* free and open source VRChat PC mod.
+### FYI - May have uploaded shit wrong. If anything is broken open an issue and describe your problem.
 
-Like video: https://www.youtube.com/watch?v=BWcNYdUs6Vg
+**Awesome Mod** or "LibreAwesome" is a work in progress VRChat PC mod that is **completely free and open source**. It is a **fork of the BlazeEngine-IL2CPP** mod and aims to improve the mod by adding more features and fixing multiple issues such as spelling mistakes and bugs. 
 
 # Links
-| Links from Site |
+| Links |
 |----------------|
-| [- Instruction](https://client.icefrag.ru/instruction) |
-| [- Avatars](https://client.icefrag.ru/avatars) |
-| [- Binds](https://client.icefrag.ru/binds) |
-| [- FAQ](https://client.icefrag.ru/faq) |
-| [- Donate](https://client.icefrag.ru/donate) |
-| [- Functions](https://github.com/BlazeBest/BlazeEngine-IL2CPP/blob/master/Functions) |
-
-# Contacts
-| IF Community | Developer |
-|----------------|:-----------:|
-| http://discord.gg/EaReVF3B8U | BlazeBest#1284 |
-
-# Command line
-"--dev-console" - For open DebugConsole
-
-# Credits: (Вдруг опять будут плакать что я их ссылки не написал) (хотя я незнаюб что тут от них вообще есть)
-- [AtiLion](https://github.com/AtiLion) for [VRCLoader/AtiRoNya](https://github.com/AtiLion/AtiRoNya)
-
-# Thanks for Lib
-- [khchen](https://github.com/khchen) for [minhook](https://github.com/khchen/minhook)
-- [spazzarama](https://github.com/spazzarama) for [SharpDisasm](https://github.com/spazzarama/SharpDisasm)
-- [HerpDerpinstine](https://github.com/HerpDerpinstine) for "NET_SDK"
-- [DubyaDude](https://github.com/DubyaDude) for [RubyButtonAPI](https://github.com/DubyaDude/RubyButtonAPI)
-- [RequiDev](https://github.com/RequiDev) for [NetworkSanity](https://github.com/RequiDev/NetworkSanity)
+| [Rentry](https://rentry.co/awesomemod) |
